@@ -1,0 +1,3 @@
+/home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/.cxx/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir
+/home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/.cxx/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+/home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/.cxx/cmake/release/x86_64/CMakeFiles/yolov5.dir

@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "/media/pv/data2/android-ndk-r21c/build/cmake/android.toolchain.cmake",
+    "/home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/src/main/cpp/CMakeLists.txt",
+    "/media/pv/data2/android-ndk-r21c/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/pv/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/home/pv/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5-Debug-arm64-v8a": {
+      "artifactName": "yolov5",
+      "buildCommand": "/home/pv/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/.cxx/cmake/debug/arm64-v8a\" yolov5",
+      "abi": "arm64-v8a",
+      "output": "/home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5.so",
+      "runtimeFiles": [
+        "/home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/src/main/cpp/ncnn/arm64-v8a/libncnn.a"
+      ]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+Executable : /home/pv/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/.cxx/cmake/debug/arm64-v8a
+yolov5
+jvmArgs : 
+

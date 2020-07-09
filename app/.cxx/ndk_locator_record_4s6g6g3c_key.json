@@ -1,0 +1,8 @@
+{
+  "ndkDirProperty": "/media/pv/data2/android-ndk-r21c",
+  "sdkFolder": "/home/pv/Android/Sdk",
+  "sideBySideNdkFolderNames": [
+    "21.3.6528147",
+    "21.2.6472646"
+  ]
+}

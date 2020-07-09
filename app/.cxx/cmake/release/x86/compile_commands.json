@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/.cxx/cmake/release/x86",
+  "command": "/media/pv/data2/android-ndk-r21c/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android24 --gcc-toolchain=/media/pv/data2/android-ndk-r21c/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/media/pv/data2/android-ndk-r21c/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyolov5_EXPORTS -I/home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/src/main/cpp/ncnn/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fopenmp -O2 -DNDEBUG  -fPIC   -o CMakeFiles/yolov5.dir/jni_interface.cpp.o -c /home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/src/main/cpp/jni_interface.cpp",
+  "file": "/home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/src/main/cpp/jni_interface.cpp"
+},
+
+{
+  "directory": "/home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/.cxx/cmake/release/x86",
+  "command": "/media/pv/data2/android-ndk-r21c/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android24 --gcc-toolchain=/media/pv/data2/android-ndk-r21c/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/media/pv/data2/android-ndk-r21c/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyolov5_EXPORTS -I/home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/src/main/cpp/ncnn/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fopenmp -O2 -DNDEBUG  -fPIC   -o CMakeFiles/yolov5.dir/YoloV5.cpp.o -c /home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/src/main/cpp/YoloV5.cpp",
+  "file": "/home/pv/Desktop/Android_MobileNetV2-YOLOV3-Nano/app/src/main/cpp/YoloV5.cpp"
+}
+]
